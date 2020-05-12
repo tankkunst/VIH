@@ -1,2 +1,15 @@
 # VIH
-virtual insane humans
+=======
+
+0
+
+-------    x(4)
+
+8 6 5 B    虛 false, worthless; empty, hollow
+
+-------    hex
+
+7 6 0 B    瘋 crazy, insane, mentally ill
+7 2 C 2    狂 mad; violent; wild
+4 E B A    人 man; people; mankind; someone else
+9 8 5 E    類 class, group, kind, category
